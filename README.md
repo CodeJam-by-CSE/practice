@@ -2,7 +2,7 @@
 
 We welcome contributions of all kinds — from bug reports and fixes to feature improvements and documentation updates.
 
-👉 To get started, please read our [Contributing Guidelines](https://github.com/CodeJam-by-CSE/Practise/blob/main/CONTRIBUTING.md).
+👉 To get started, please read our [Contributing Guidelines](https://github.com/CodeJam-by-CSE/Practice/blob/main/CONTRIBUTING.md).
 
 ### 🎯 Intended Behavior
 

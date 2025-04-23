@@ -8,10 +8,10 @@ Fork the Repository
 Click the “Fork” button in the top-right corner of this repo.
 
 Clone Your Fork
-`
-    git clone https://github.com/your-username/PRACTISE.git
+
+    git clone https://github.com/CodeJam-by-CSE/practice.git
     cd grade-calculator
-`
+
 Set Up a Virtual Environment (optional but recommended)
 
     python -m venv venv
